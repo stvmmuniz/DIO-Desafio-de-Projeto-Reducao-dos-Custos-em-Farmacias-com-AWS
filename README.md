@@ -1,7 +1,7 @@
 # Desafio de Projeto: Redução dos Custos em Farmácias com AWS
 
 ## Introdução:
-Este projeto apresenta um relatório para implementação de serviços em nuevem (AWS) para uma empresa fictícia do setor farmacêutico.
+Este projeto apresenta um relatório para implementação de serviços em nuvem (AWS) para uma empresa fictícia do setor farmacêutico.
 
 ## Objetivo:
 
