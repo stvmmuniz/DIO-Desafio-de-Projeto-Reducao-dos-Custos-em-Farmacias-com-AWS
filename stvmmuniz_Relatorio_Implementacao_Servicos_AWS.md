@@ -62,6 +62,7 @@ A adoção dessa arquitetura em nuvem cria uma base tecnológica sólida para su
 
 Assinatura do Responsável pelo Projeto:
 
-Moacir Muniz
+Estevam Muniz
+
 
 
