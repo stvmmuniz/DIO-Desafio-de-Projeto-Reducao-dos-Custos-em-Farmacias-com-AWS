@@ -1,12 +1,12 @@
 #RELATÓRIO DE IMPLEMENTAÇÃO DE SERVIÇOS AWS
 
-**Data:** 15/01/2026
-**Empresa:** Abstergo Industries
-**Responsável:** Estevam Muniz
+**Data:** 15/01/2026<br>
+**Empresa:** Abstergo Industries<br>
+**Responsável:** Estevam Muniz<br>
 
 ## Introdução
 
-Este relatório apresenta a proposta de implementação de serviços em nuvem na empresa XYZ Pharma Distribution, atuante como hub de distribuição para múltiplas redes de farmácias, responsável por operações críticas de logística, armazenagem e integração com parceiros comerciais.
+Este relatório apresenta a proposta de implementação de serviços em nuvem na empresa Abstergo Industries, atuante como hub de distribuição para múltiplas redes de farmácias, responsável por operações críticas de logística, armazenagem e integração com parceiros comerciais.
 
 O objetivo do projeto é recomendar o uso estratégico de serviços da AWS visando redução imediata de custos operacionais, alta escalabilidade, agilidade nos processos logísticos e analíticos e segurança da informação, atendendo às exigências regulatórias do setor farmacêutico.
 
@@ -63,3 +63,4 @@ A adoção dessa arquitetura em nuvem cria uma base tecnológica sólida para su
 Assinatura do Responsável pelo Projeto:
 
 Moacir Muniz
+
